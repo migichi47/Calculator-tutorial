@@ -1,0 +1,20 @@
+TEXT CASES
+
+1. CAMEL CASES (js)
+eg. yourName, isTrue, totalAmount, additionResult, etc.
+
+
+2. PASCAL CASES (reactjs)
+eg. YourName, IsTrue, TotalAmount, AdditionResult, etc.
+
+
+3. KEBAB CASES (css, js)
+eg. your-name, is-true, total-amount, addition-result, etc.
+
+
+- callback function
+- arrow function
+- query selector
+- getElementById
+- conditional rendering (if/else)
+- integration of html/css with javascript
